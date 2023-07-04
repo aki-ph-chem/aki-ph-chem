@@ -1,5 +1,7 @@
 # aki-ph-chem
 
+- blog:[\_\_aki\_nikki\_](https://a44ki.hatenablog.com/) (I've only written a few pages.)
+
 ## whoami
 
 - Graduate school student: Kobe-University
