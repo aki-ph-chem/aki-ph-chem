@@ -1,7 +1,5 @@
 # aki-ph-chem
 
-- blog:[\_\_aki\_nikki\_](https://a44ki.hatenablog.com/) (I've only written a few pages.)
-
 ## whoami
 
 - Graduate school student: Kobe-University
@@ -17,8 +15,8 @@
 
 <p align="left">
 <a href="https://www.leetcode.com/n4ko_maki_maki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="n4ko_maki_maki" height="30" width="40" /></a>
+<a href="https://a44ki.hatenablog.com/" target="blank"><img align="center" src="./fig/hatenablog-logo.svg" alt="__aki_nikki_" height="40" width="40"/></a>
 </p>
-
 
 ## Languages and Tools
 
