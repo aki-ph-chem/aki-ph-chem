@@ -21,7 +21,7 @@
 <a href="https://a44ki.hatenablog.com/" target="blank"><img align="center" src="./fig/hatenablog-logo.svg" alt="__aki_nikki_" height="40" width="40"/>
 </a>
 <!-- GitLab -->
-<a href="https://gitlab.com/_aki_" target="blank"><img align="center" src="./fig/gitlab-logo-500.svg", alt="_aki_" height="43" width="43">
+<a href="https://gitlab.com/_aki_" target="blank"><img align="center" alt="_aki_" height="43" width="43">
 </a>
 </p>
 
