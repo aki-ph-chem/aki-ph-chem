@@ -7,9 +7,11 @@
 
 ## Interests
 
-- internal rotation of molecule (Large Amprituede motion)
-- molecular structore
-- Linux, Rust, Neovim
+- molecular⚛️  spectroscopy (high-resolution⚡️,rotation, large amprituede motion )
+- numerical calculation💻
+- low rayer technology(computer architecture🧮, Linux system programming🐧)
+- CLI ⌨ (NeoVim✒️, Shell🐚)
+- statically typed language (C++, Rust 🦀)
 
 ## SNS
 
