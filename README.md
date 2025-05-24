@@ -56,6 +56,20 @@
 </a>
 </p>
 
+## Currently studying new
+
+<p align="left">
+<!-- OpenCL -->
+<a href="https://www.khronos.org/opencl/" target="_blank" rel="noreferrer"><img src="https://www.khronos.org/assets/images/api_logos/opencl3.svg" alt="OpenCL" width="80" height="80"/>
+</a>
+<!-- SYCL -->
+<a href="https://www.khronos.org/sycl/" target="_blank" rel="noreferrer"><img src="https://www.khronos.org/assets/images/api_logos/sycl.svg" alt="SYCL" width="80" height="80"/>
+</a>
+<!-- Nix -->
+<a href="https://nixos.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Nix_Snowflake_Logo.svg" alt="Nix" width="80" height="80"/>
+</a>
+</p>
+
 ## Status
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
