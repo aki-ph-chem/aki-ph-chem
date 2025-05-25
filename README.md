@@ -16,8 +16,8 @@
 ## SNS
 
 <p align="left">
-<!-- Leet Code -->
-<a href="https://www.leetcode.com/n4ko_maki_maki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="n4ko_maki_maki" height="30" width="40" />
+<!-- X -->
+<a href="https://x.com/aaki36011407" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="X.com" height="30" width="30"/>
 </a>
 <!-- Hatena -->
 <a href="https://a44ki.hatenablog.com/" target="blank"><img align="center" src="./fig/hatenablog-logo.svg" alt="__aki_nikki_" height="40" width="40"/>
