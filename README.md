@@ -71,6 +71,9 @@
 <!-- Nix -->
 <a href="https://nixos.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Nix_Snowflake_Logo.svg" alt="Nix" width="80" height="80"/>
 </a>
+<!-- Cloudflare -->
+<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="./fig/Cloudflare_Logo.svg" alt="Cloudflare" width="100" height="80"/>
+</a>
 </p>
 
 ## Status
