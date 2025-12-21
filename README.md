@@ -30,6 +30,10 @@
 </a>
 </p>
 
+## Home Page
+
+[aki.blog](https://akiblog.org/)
+
 ## Languages and Tools
 
 <p align="left">
