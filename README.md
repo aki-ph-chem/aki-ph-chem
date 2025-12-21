@@ -74,6 +74,9 @@
 <!-- Cloudflare -->
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="./fig/Cloudflare_Logo.svg" alt="Cloudflare" width="100" height="80"/>
 </a>
+<!-- OpenCV -->
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="./fig/opencv.svg" alt="Cloudflare" width="80" height="80"/>
+</a>
 </p>
 
 ## Status
