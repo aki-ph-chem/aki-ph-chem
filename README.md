@@ -79,7 +79,10 @@
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="./fig/Cloudflare_Logo.svg" alt="Cloudflare" width="100" height="80"/>
 </a>
 <!-- OpenCV -->
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="./fig/opencv.svg" alt="Cloudflare" width="80" height="80"/>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="./fig/opencv.svg" alt="OpenCV" width="80" height="80"/>
+</a>
+<!-- libvirt -->
+<a href="https://libvirt.org/index.html" target="_blank" rel="noreferrer"><img src="./fig/libvirt-logo-square-192.png" alt="libvirt" width="80" height="80"/>
 </a>
 </p>
 
