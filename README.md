@@ -14,20 +14,12 @@
 
 ## SNS
 
-<p align="left">
-<!-- X -->
-<a href="https://x.com/aaki36011407" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="X.com" height="30" width="30"/>
-</a>
-<!-- keybase -->
-<a href="https://keybase.io/a4ki" target="blank"><img align="center" src="./fig/icons8-keybase-48.png" alt="keybase.io" height="30" width="30"/>
-</a>
-<!-- Hatena -->
-<a href="https://a44ki.hatenablog.com/" target="blank"><img align="center" src="./fig/hatenablog-logo.svg" alt="__aki_nikki_" height="40" width="40"/>
-</a>
-<!-- GitLab -->
-<a href="https://gitlab.com/_aki_" target="blank"><img align="center" alt="_aki_" height="43" width="43">
-</a>
-</p>
+| service                                 | icon                                                                                                                 |
+|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| [X.com](https://x.com/aaki36011407)     | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="X.com" height="30" width="30" /> |
+| [keybase](https://keybase.io/a4ki)      | <img src="./fig/icons8-keybase-48.png" alt="keybase.io" height="30" width="30"/>                                     |
+| [Hatena](https://a44ki.hatenablog.com/) | <img src="./fig/hatenablog-logo.svg" alt="__aki_nikki_" height="40" width="40"/>                                     |
+| [GitLab](https://gitlab.com/_aki_)      |                                                                                                                      |
 
 ## Home Page
 
