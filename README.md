@@ -2,8 +2,7 @@
 
 ## whoami
 
-- Graduate school student: Kobe-University
-    - theme: Laser Spectroscopy
+- SWE?
 
 ## Interests
 
