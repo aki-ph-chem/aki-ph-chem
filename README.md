@@ -49,6 +49,7 @@
 | Nix        | <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Nix_Snowflake_Logo.svg" alt="Nix" width="80" height="80"/> |
 | libvirt    | <img src="./fig/libvirt-logo-square-192.png" alt="libvirt" width="80" height="80"/>                                      |
 | Cloudflare | <img src="./fig/Cloudflare_Logo.svg" alt="Cloudflare" width="100" height="80"/>                                          |
+| CUDA       | <img alt="https://developer.nvidia.com/cuda/toolkit"/>                                                                   |
 
 
 ## Status
